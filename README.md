@@ -60,13 +60,7 @@ If `collectUrl` is set, a button appears after the results are exported. Point i
 
 ## Run locally
 
-Open `index.html` in a browser. There is no build step and no dependencies. The two fonts (Archivo and Newsreader, both under the SIL Open Font License) are embedded in the file.
-
-## Publish with GitHub Pages
-
-1. Push `index.html`, `README.md` and `.nojekyll` to a repository.
-2. In **Settings > Pages**, choose your default branch and the root folder.
-3. Your page appears at `https://YOUR-USERNAME.github.io/REPO-NAME/`.
+Open `tastemap.html` in a browser. There is no build step and no dependencies. The two fonts (Archivo and Newsreader, both under the SIL Open Font License) are embedded in the file.
 
 ## How it works
 
