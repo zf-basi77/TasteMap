@@ -1,4 +1,4 @@
-# Tastemap
+# Tastemap, v0.1
 
 Drop in your Spotify listening history and see it drawn as a map: the regions your taste falls into, the artists that bridge them, and the routes you take between artists.
 
@@ -60,7 +60,7 @@ If `collectUrl` is set, a button appears after the results are exported. Point i
 
 ## Run locally
 
-Open `tastemap.html` in a browser. There is no build step and no dependencies. The two fonts (Archivo and Newsreader, both under the SIL Open Font License) are embedded in the file.
+Open `index.html` in a browser. There is no build step and no dependencies. The two fonts (Archivo and Newsreader, both under the SIL Open Font License) are embedded in the file.
 
 ## How it works
 
