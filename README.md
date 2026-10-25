@@ -66,6 +66,11 @@ Open `tastemap.html` in a browser. There is no build step and no dependencies. T
 
 The map is learned from your sessions alone: no mood data and no Spotify account. A session ends after 30 minutes of silence, and plays under 30 seconds count as skips. The map is fitted on your earliest 70% of sessions, and the tests use the later 30%, which the map never saw. Only moves between different artists count. This is a rough prototype: artists only, with no confidence intervals yet.
 
+## TO DO:
+- improve UI design
+- generate automated export+send tool to ease data retrieval and sharing (if desired by user, all data currently remains local)
+- misc 
+
 ## License
 
 Add a license of your choice, for example MIT.
